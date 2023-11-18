@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md. Mahamudun Hassan
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Engineering and programming!
 - 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Development
 - 📫 Reach me at mahamudun013@gmail.com
 
 <!---
