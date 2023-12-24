@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md. Mahamudun Hassan
-- 👀 I’m interested in Software Engineering and Programming!
-- 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on Development
+- 👀 I’m interested in Software Development, System Design, and Database Design, etc.
+- 🌱 I’m currently learning Software Development, System Design, and Database Design, etc.
+- 💞️ I’m looking to collaborate on Software Development, System Design, Database Design, etc.
 - 📫 Reach me at mahamudun013@gmail.com
 
 <!---
